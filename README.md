@@ -28,11 +28,20 @@ I'm **Akhil Singh** — a Software Developer & Tech Enthusiast 🚀
 ---
 
 ## 🏆 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhil2680&show_icons=true&theme=tokyonight)
+## 🏆 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil2680&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil2680&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akhil2680&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil2680&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akhil2680&theme=tokyonight" />
+</p>
+
 
 ---
 
