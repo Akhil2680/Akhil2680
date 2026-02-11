@@ -32,6 +32,8 @@ I'm **Akhil Singh** — a Software Developer & Tech Enthusiast 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil2680&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Akhil2680&theme=tokyonight)
+
 ---
 
 ✨ *Always learning. Always building.*
