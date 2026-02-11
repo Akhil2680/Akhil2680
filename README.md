@@ -37,10 +37,8 @@ I'm **Akhil Vikram Singh** — a Software Developer & Tech Enthusiast 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil2680&layout=compact&theme=tokyonight" />
 </p>  -->
 
- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhil2680&theme=tokyonight" />
-</p> 
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil2680&theme=synthwave&hide_border=true&locale=hi&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
