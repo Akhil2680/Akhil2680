@@ -28,7 +28,7 @@ I'm **Akhil Singh** — a Software Developer & Tech Enthusiast 🚀
 ---
 
 ## 🏆 GitHub Stats:
-## 🏆 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil2680&show_icons=true&theme=tokyonight" />
