@@ -5,9 +5,9 @@ I'm **Akhil Singh** — a Software Developer & Tech Enthusiast 🚀
 ---
 
 ## 🔗 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akhil-vikram-singh-91b1a7259)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Akhil2680)
+
 
 ---
 
