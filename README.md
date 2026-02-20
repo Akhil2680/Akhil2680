@@ -23,7 +23,9 @@ I'm **Akhil Vikram Singh** — a Software Developer & Tech Enthusiast 🚀
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=database)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Testing-Manual%20%26%20Automation-orange?style=for-the-badge&logo=testinglibrary)
 
 ---
 
